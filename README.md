@@ -33,9 +33,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-![Gameplay Screenshot - 01](GamePlayScreenshots\GamePlaySS_01.png)
-![Gameplay Screenshot - 02](GamePlayScreenshots\GamePlaySS_02.png)
-![Game Over Screenshot](GamePlayScreenshots\GamePlaySS_03.png)
+![Gameplay Screenshot - 01](GamePlayScreenshots\GamePlaySS01.png)
+![Gameplay Screenshot - 02](GamePlayScreenshots\GamePlaySS02.png)
+![Game Over Screenshot](GamePlayScreenshots\GamePlaySS03.png)
 
 Enjoy playing Flappy Bird!
 
